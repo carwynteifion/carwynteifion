@@ -1,6 +1,9 @@
 Code Institute Level 5 Diploma in Web Application Development Graduate
+
 Frontend: HTML5/CSS3/JavaScript (ES6)
+
 Backend: Python/Flask, Django, MongoDB, SQL, PostgreSQL
+
 Frameworks & Technologies: jQuery, Bootstrap, MaterializeCSS, Heroku, Git, GitHub, Bash CLI, AWS S3, AWS IAM
 
 Currently learning React.js
