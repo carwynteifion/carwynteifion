@@ -6,9 +6,9 @@ Backend: Python/Flask, Django, MongoDB, SQL, PostgreSQL
 
 Frameworks & Technologies: jQuery, Bootstrap, MaterializeCSS, Heroku, Git, GitHub, Bash CLI, AWS S3, AWS IAM
 
-Currently learning React.js
+Currently learning Microsoft Stack
 
-Planning to learn: TypeScript, Java
+Planning to learn: React, TypeScript, Java
 
 <!---
 carwynteifion/carwynteifion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
