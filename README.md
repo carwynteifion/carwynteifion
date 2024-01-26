@@ -1,10 +1,16 @@
+BSc Digital & Technology Solutions Degree Apprentice @ USW
 Code Institute Level 5 Diploma in Web Application Development Graduate
 
-Frontend: HTML5/CSS3/JavaScript (ES6), Vue
+Current Stack:
 
-Backend: Python/Flask, Django, MongoDB, SQL, PostgreSQL
+Frontend: HTML5/CSS3/JavaScript (ES6)
+Backend: C#/.NET 6
+Frameworks & Technologies: Vue 3, Vuetify, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure
 
-Frameworks & Technologies: jQuery, Bootstrap, MaterializeCSS, Heroku, Git, GitHub, Bash CLI, AWS S3, AWS IAM, Pinia
+Others Learned:
+
+Backend: Python/Flask, Django, MongoDB, SQL, PostgreSQL, Java
+Frameworks & Technologies: jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2
 
 Currently learning Microsoft Stack & Java
 
