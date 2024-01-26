@@ -1,5 +1,5 @@
-BSc Digital & Technology Solutions Degree Apprentice @ USW
-Code Institute Level 5 Diploma in Web Application Development Graduate
+- BSc Digital & Technology Solutions Degree Apprentice @ USW
+- Code Institute Level 5 Diploma in Web Application Development Graduate
 
 Current Stack:
 
