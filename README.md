@@ -1,24 +1,42 @@
-BSc Digital & Technology Solutions Degree Apprentice @ USW
+# Carwyn Thomas
 
-Code Institute Level 5 Diploma in Web Application Development Graduate
+## Background
 
-Current Stack:
+### BSc Digital & Technology Solutions Degree Apprentice @ USW
 
-Frontend: HTML5/CSS3/JavaScript (ES6)
+### Code Institute Level 5 Diploma in Web Application Development Graduate
 
-Backend: C#/.NET 6
+## Current Stack
 
-Frameworks & Technologies: Vue 3, Vuetify, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure
+### Frontend
 
-Others Learned:
+HTML5/CSS3/JavaScript (ES6)
 
-Backend: Python/Flask, Django, MongoDB, SQL, PostgreSQL, Java
+### Backend
 
-Frameworks & Technologies: jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2
+C#/.NET 6/8
 
-Currently learning Microsoft Stack & Java
+### Frameworks & Technologies
 
-Planning to learn: React, TypeScript, Svelte
+Vue 3, Vuetify, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure
+
+## Others Learned
+
+### Backend
+
+Python/Flask, Django, MongoDB, SQL, PostgreSQL, Java
+
+### Frameworks & Technologies
+
+jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2
+
+## Currently learning
+
+Microsoft Stack, TailwindCSS, Nuxt, TypeScript
+
+## Planning to learn
+
+React, Svelte
 
 <!---
 carwynteifion/carwynteifion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
