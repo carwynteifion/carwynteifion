@@ -2,9 +2,11 @@
 
 ## Background
 
-### BSc Digital & Technology Solutions Degree Apprentice @ USW
+### Degree Apprentice
+BSc Digital & Technology Solutions @ USW
 
-### Code Institute Level 5 Diploma in Web Application Development Graduate
+### Coding Bootcamp Graduate
+Level 5 Diploma in Web Application Development @ Code Institute
 
 ## Current Stack
 
