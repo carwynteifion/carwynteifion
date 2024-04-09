@@ -1,4 +1,4 @@
-# Carwyn Thomas 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+# Carwyn Thomas
 
 ## Background
 
