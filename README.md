@@ -12,17 +12,21 @@ Level 5 Diploma in Web Application Development @ Code Institute
 
 ### Frontend 🎨
 
-HTML5/CSS3/JavaScript (ES6)
+HTML5/CSS3/TypeScript/TailwindCSS
 
 ### Backend 🧠
 
-C#/.NET 6/8, SQL
+C#/.NET 8, T-SQL
 
 ### Frameworks & Technologies ⚙️
 
-Vue 3, Vuetify, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure, SQL Server Management Studio, Azure Data Studio
+Vue 3, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure, SQL Server Management Studio, Azure Data Studio
 
 ## Others Learned 🕹️
+
+### Frontend
+
+JavaScript
 
 ### Backend 
 
@@ -30,11 +34,11 @@ Python/Flask, Django, MongoDB, PostgreSQL, Java, SQLite
 
 ### Frameworks & Technologies
 
-jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2, DB Browser
+jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2, DB Browser, Vuetify, Nuxt
 
 ## Currently learning 🤓
 
-Microsoft Stack, TailwindCSS, Nuxt, TypeScript
+Microsoft Stack, TailwindCSS
 
 ## Planning to learn 🏫
 
