@@ -9,7 +9,7 @@ BSc Digital & Technology Solutions @ USW
 Level 5 Diploma in Web Application Development @ Code Institute
 
 ### Certifications 📜 
-[Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/CarwynThomas-0682/41D7BB8A06DD5D06?sharingId=1757CDF53C94C980)
+✅️[Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/CarwynThomas-0682/41D7BB8A06DD5D06?sharingId=1757CDF53C94C980)
 
 ## Current Stack
 
