@@ -43,7 +43,7 @@ jQuery, Bootstrap, MaterializeCSS, Heroku, Bash CLI, AWS S3, AWS IAM, jinja2, DB
 
 ## Currently learning 🤓
 
-Microsoft Stack, TailwindCSS
+Microsoft Stack, TailwindCSS, IaC (Bicep, YAML)
 
 ## Planning to learn 🏫
 
