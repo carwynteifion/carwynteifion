@@ -25,7 +25,11 @@ C#/.NET 8, T-SQL
 
 ### Frameworks & Technologies ⚙️
 
-Vue 3, Vue Router, Pinia, Git, GitHub, Powershell CLI, Azure, SQL Server Management Studio, Azure Data Studio
+Vue 3, Vue Router, Pinia, Git, GitHub, Powershell CLI, SQL Server Management Studio, Azure Data Studio
+
+### Cloud Technologies ☁️
+
+Microsoft Azure
 
 ## Others Learned 🕹️
 
